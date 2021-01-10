@@ -20,6 +20,8 @@ def division(num1, num2)
   sum
 end
 
+puts division(100,2)
+
 def multiplication(num1, num2)
   sum = #{num1} * #{num2}
   puts sum

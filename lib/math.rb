@@ -15,7 +15,7 @@ end
 puts subtraction(10,4)
 
 def division(num1, num2)
-  sum = #{num1} / #{num2}
+  sum = num1 / num2
   puts sum
   sum
 end

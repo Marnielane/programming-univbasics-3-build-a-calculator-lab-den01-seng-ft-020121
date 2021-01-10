@@ -39,7 +39,7 @@ end
 puts modulo(81,9)
 
 def square_root(num)
-  sum = ((num) ** 2)
+  sum = (num ** 2)
   puts sum
   sum
 end

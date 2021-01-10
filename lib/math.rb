@@ -38,11 +38,11 @@ end
 
 puts modulo(81,9)
 
-def square_root(num1)
+def square_root(num2)
   num2 = num1 * num1
   sum = num2 / num1
   puts sum
   sum
 end
 
-puts square_root(9)
+puts square_root(81)

@@ -31,10 +31,12 @@ end
 puts multiplication(9,3)
 
 def modulo(num1, num2)
-  sum = #{num1} % #{num2}
+  sum = num1 % num2
   puts sum
   sum
 end
+
+puts modulo(81,9)
 
 def square_root(num)
   sum = #{num} **
